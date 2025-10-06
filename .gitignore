@@ -1,3 +1,6 @@
+/src/*
+!/src/
+
 # Angular specific
 /dist/
 /out-tsc/
